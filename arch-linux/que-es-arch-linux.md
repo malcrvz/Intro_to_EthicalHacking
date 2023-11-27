@@ -27,3 +27,6 @@ La filosofía de la distribución se basa en 5 principios:
 3. **Pragmatismo:** el proyecto Arch siempre se sostiene sobre el pragmatismo evitando ideologías en sus decisiones de desarrollo. Las decisiones sobre el desarrollo se basan siempre en un análisis técnico que cumpla las normas del proyecto y no sean influenciadas por individuos.
 4. **Centrado en el usuario:** el proyecto Arch no busca crear una distribución user-friendly para llegar a la máxima cantidad de usuarios posibles, sino user-centric, es decir hacia un propósito específico y de máxima calidad, está intencionada hacia las personas que tienen conocimientos más avanzados de GNU/Linux o tienen una mentalidad más resolutiva para resolver sus propios problemas y quieren tener una distribución totalmente libre, mientras que incita a todos los usuarios a colaborar con el proyecto en su gran comunidad siempre activa.
 5. **Versatilidad:** el proyecto Arch busca ser de propósito general, una vez instalado el único entorno disponible es una consola de comandos, desde la cual personalizarás totalmente el resto de tu instalación para decidir cual va a ser la función del equipo.
+
+
+TEST - DELETE ME
