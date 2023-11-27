@@ -16,6 +16,8 @@ layout:
 
 <figure><img src="../.gitbook/assets/Archlinux-logo-standard-version%20(1).png" alt="" width="375"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Archlinux-logo-standard-version.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## Una distribución ligera
 
 Arch Linux es una distribución de GNU/Linux desarrollada independientemente, siguiendo un modelo de rolling-release, es decir se actualiza constantemente en la misma instalación a diferencia del modelo estándar que utiliza diferentes versiones que deben reinstalarse encima de las anteriores cada vez que se desarrolla una nueva.
